@@ -1,2 +1,9 @@
-.venv/*
+env/*
 .vscode/*
+build/*
+dist/*
+meu_investimento_alura_djflucena.egg-info/*
+__pycache__/*
+*.pyc
+*.pyo
+*.pyd
